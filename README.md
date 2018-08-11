@@ -1,2 +1,2 @@
 # nginx-django
-Setting up NGINX as a revere proxy for Django
+Setting up NGINX as a reverse proxy for Django
